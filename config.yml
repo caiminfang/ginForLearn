@@ -1,0 +1,7 @@
+server:
+  # 监听端口号
+  port: 9099
+  # 优雅停止服务的超时时间（秒）
+  shutdownTimeout: 10
+  #增加了Cors开关
+  openCors: false
